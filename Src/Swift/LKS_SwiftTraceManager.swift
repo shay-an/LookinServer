@@ -27,7 +27,7 @@ public class LKS_SwiftTraceManager: NSObject {
                         return
                     }
                     
-                    guard let label = label, label.count > 0 else {
+                    guard let label1 = label, label1.count > 0 else {
                         return
                     }
                     
